@@ -1,6 +1,6 @@
 # Authentication & Authorization - MongoDB, REACT, EXPRESS, NODE.JS, PASSPORT.JS
 
-![Image of HeaderPage]()
+![Image of HeaderPage](https://github.com/oneil213/MongoDB-CrudAuth/blob/c250463baf65adcfa974a2b0e2dc2b665ac61e6e/client/src/assets/img/header.jpg)
 A simple boilerplate application for authentication and authorization using the MERN STACK.
 
 This Application includes some security features listed below
