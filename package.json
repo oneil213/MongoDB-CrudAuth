@@ -22,7 +22,7 @@
     "helmet": "^3.23.3",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.9.26",
-    "nodemailer": "^6.4.11",
+    "nodemailer": "^6.4.16",
     "passport": "^0.4.1",
     "passport-jwt": "^4.0.0",
     "passport-local": "^1.0.0",
